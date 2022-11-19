@@ -40,7 +40,7 @@ const Header = () => (
               <br />
               <p>
                 <StyledExternalLink href="https://github.com/ajayns/gatsby-absurd">
-                  Our service &nbsp;&#x2794;
+                  Our service Haha &nbsp;&#x2794;
                 </StyledExternalLink>
               </p>
             </Text>
