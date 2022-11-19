@@ -31,16 +31,16 @@ const Header = () => (
             </Art>
             <Text>
               <h1>
-                Fast in
+                We make
                 <br />
-                every way
+                your life
                 <br />
-                that matters
+                easier
               </h1>
               <br />
               <p>
                 <StyledExternalLink href="https://github.com/ajayns/gatsby-absurd">
-                  Check out source &nbsp;&#x2794;
+                  Our service &nbsp;&#x2794;
                 </StyledExternalLink>
               </p>
             </Text>
